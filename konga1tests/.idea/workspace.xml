@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae3d929f-88d0-439d-bd66-e676f2e51963" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/055dd0f4-995c-45dc-9906-f628006dc840-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08f750c0-e2c1-4681-994e-5da7a4fd02cb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b113a59-b5e7-4c42-b8a4-428ed1c88ecf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a938124-0acf-46e8-b869-b9a62d954481-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b327fa0-a287-45b4-acb7-255c84d1d86b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/323801ef-a77c-44b8-9df3-11e6e044fb97-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32459373-5daf-428c-94c7-136d707789bd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3692fcec-875c-4b7b-93e4-0b5055ed9816-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c16bbe4-b98a-4d42-87f5-eb3da6b82eaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/448b76f1-2499-4f88-bdba-1a2fb5514667-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4afb94c7-2cd2-490b-9eb9-ccaf8c5c7373-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4b06bca9-18ac-4292-9858-d3d5e16a9def-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/554b820f-37ae-433b-ae96-2d11170a5460-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fd5569d-9b03-4228-bff7-199707c1a2aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/607e1c29-418d-4ebe-845a-88a8328a93b4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/61924c90-a573-4ba5-9ae2-274009748d25-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/655c2eec-e10e-4c4e-b70f-40af6c5b536e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66029689-84b8-4579-92e2-aa1edacc0e63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/70bd748e-e99a-45b7-8452-3cb5fa4500ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79ec4509-d550-47d0-974c-c3588594a853-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d4ee7e5-ac59-4240-b6fe-bee46aae4ea3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ab22cce-23d9-4b82-afcf-22cb745e9ae8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/90a6e37c-f8d6-4a05-900d-01d1e1e8fdb1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/95590bdc-2bc0-4f8a-a0f1-3ec26e7fa222-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9559709f-cdb6-4c75-8030-03bb38dd8fe3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9627b29b-14cf-4600-96ba-5d81917d853a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a7a39ddd-5a2d-41b5-b85f-1349b0d124f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aaabfa2e-a651-4bb8-bd07-70210eab56d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b5757954-1e16-4690-9192-c753e5f6bb75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd98e34e-3a59-47ef-9e40-189218e10420-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd5c0760-4050-447a-95b0-be1187471bc6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ced3d2b6-9bee-45be-903e-fce40065cf7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dad88f1d-eb33-4cb9-b0f3-d26d097030b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd1d544f-a349-4331-9ad1-73b725938a52-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd45027a-dd86-4e8b-aebd-f22db80ab879-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/defe5049-9f46-4127-8d2f-6bf11e945cc0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5890e3f-2a5f-4c71-b221-6dedb5c87248-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5fe6062-f06e-4c0f-95f2-ad092e0a468b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7fc1ffe-993f-4e1e-8976-fd0a722d2025-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2e36c98-19df-41b5-9164-37f450992052-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc8d8ab0-f2ed-48f1-9cda-40b5285c2302-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff0d8ba5-a729-4cf4-a335-8bcad8dd7061-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KongaWebTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PTWPeD8weuWpIe37YSesyoe6wM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Documents/kong1Test/konga1tests/resources&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\kong1Test\konga1tests\resources" />
+      <recent name="C:\Users\DELL\Documents\kong1Test\konga1tests\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.KongaWebTests">
+    <configuration name="KongaWebTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="konga1tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaWebTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaWebTests.clickapplemacbook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="konga1tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaWebTests" />
+      <option name="METHOD_NAME" value="clickapplemacbook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaWebTests.clicklaptopcateory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="konga1tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaWebTests" />
+      <option name="METHOD_NAME" value="clicklaptopcateory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaWebTests.inputcarddetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="konga1tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaWebTests" />
+      <option name="METHOD_NAME" value="inputcarddetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaWebTests.start" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="konga1tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaWebTests" />
+      <option name="METHOD_NAME" value="start" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.KongaWebTests" />
+        <item itemvalue="TestNG.KongaWebTests.inputcarddetails" />
+        <item itemvalue="TestNG.KongaWebTests.clickapplemacbook" />
+        <item itemvalue="TestNG.KongaWebTests.clicklaptopcateory" />
+        <item itemvalue="TestNG.KongaWebTests.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae3d929f-88d0-439d-bd66-e676f2e51963" name="Changes" comment="" />
+      <created>1683481532053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683481532053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
